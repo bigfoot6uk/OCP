@@ -1,4 +1,4 @@
-# Openshift User membership & Project Export script
+# Openshift User Membership & Project Export Script
 
 As a Openshift Cluster Admin you may need to be able to export all project names & user membership from the OCP platform. This script does this
 
